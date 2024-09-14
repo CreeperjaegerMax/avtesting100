@@ -1,4 +1,3 @@
-# List of disallowed program names
 anydesk
 teamviewer
 getscreen.me
